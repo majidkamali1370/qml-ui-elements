@@ -28,6 +28,12 @@ A material design `TextField`.
 
 ![MaterialTextField](images/MaterialTextField.gif)
 
+## MultiStateButton
+
+A `ToolButton` with multiple states.
+
+![MultiStateButton](images/MultiStateButton.gif)
+
 ## NonEditableStepper.qml
 
 *Dependencies :* `MaterialDesignIcons.qml`, `StepperStep.qml`
